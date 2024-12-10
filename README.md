@@ -1,4 +1,4 @@
-# LRU-based-MOESIF-cache-coherency-protocol, ECE M116C - CS M151B Computer Architecture Systems - UCLA
+# LRU-based-MOESIF-cache-coherency-protocol, ECE M116C Computer Architecture Systems - UCLA
 
 The goal of this project is to learn about cache coherency and cache management in a modern multi-core system. You should design an LRU-based MOESIF cache coherency protocol for a four-core machine and report various statistics including the number of cache misses, writeback, etc. 
 
